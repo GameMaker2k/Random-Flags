@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" x="0" y="0" width="360" height="240">
+<rect width="360" height="80" x="0" y="0" fill="#108042" />
+  <rect width="360" height="80" x="0" y="80" fill="#fcd116" />
+  <rect width="360" height="80" x="0" y="160" fill="#ce1126" />
+<polygon points="0,0 180,120 0,240" fill="#000000" />
+<g transform="translate(42.000000,115.000000)">
+<g transform="scale(0.14000)">
+<g transform="translate(-240.000000,-340.000000)">
+	<path stroke-width="200" stroke="#fcd116" d="M400,0V800M0,400H800"/>
+</g>
+</g>
+</g>
+</svg>
+
