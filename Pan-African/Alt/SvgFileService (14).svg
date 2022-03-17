@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" x="0" y="0" width="360" height="240">
+<rect width="360" height="80" x="0" y="0" fill="#108042" />
+  <rect width="360" height="80" x="0" y="80" fill="#fcd116" />
+  <rect width="360" height="80" x="0" y="160" fill="#ce1126" />
+<polygon points="0,0 180,120 0,240" fill="#000000" />
+<g transform="translate(55.000000,120.000000)">
+<g transform="scale(0.400000)">
+<g transform="translate(-125.000000,-123.000000)">
+	<path style="fill:#fcd116;stroke:#000;stroke-width:2.5" d="M0,130C0,58.6,57.9,0.7,129.3,0.7c46,0,86.4,24,109.3,60.2c-18.9-21.1-46.4-34.4-77-34.4
+		C104.5,26.5,58.2,72.9,58.2,130s46.3,103.5,103.5,103.5c30.6,0,58.1-13.3,77-34.4c-22.9,36.2-63.3,60.2-109.3,60.2
+		C57.9,259.3,0,201.4,0,130z"/>
+</g>
+</g>
+</g>
+</svg>
+
